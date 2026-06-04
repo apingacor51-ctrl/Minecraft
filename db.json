@@ -1,0 +1,240 @@
+{
+  "brands": [
+    {
+      "name": "Samsung",
+      "devices": [
+        "A05",
+        "A06",
+        "A15",
+        "A24",
+        "A34",
+        "A54",
+        "S23",
+        "S24"
+      ]
+    },
+    {
+      "name": "Xiaomi",
+      "devices": [
+        "Redmi 12",
+        "Redmi Note 13",
+        "Poco X6",
+        "Poco F6"
+      ]
+    },
+    {
+      "name": "Vivo",
+      "devices": [
+        "Y28",
+        "Y100",
+        "V30",
+        "V40"
+      ]
+    },
+    {
+      "name": "Oppo",
+      "devices": [
+        "A3s",
+        "A58",
+        "Reno 5f",
+        "Reno 11",
+        "Reno 12"
+      ]
+    },
+    {
+      "name": "Realme",
+      "devices": [
+        "C53",
+        "C67",
+        "12 Pro"
+      ]
+    },
+    {
+      "name": "Infinix",
+      "devices": [
+        "Hot 40 Pro",
+        "Note 40 Pro"
+      ]
+    },
+    {
+      "name": "Tecno",
+      "devices": [
+        "Pova 6",
+        "Spark 20"
+      ]
+    },
+    {
+      "name": "Itel",
+      "devices": [
+        "P55",
+        "RS4"
+      ]
+    },
+    {
+      "name": "Asus",
+      "devices": [
+        "ROG Phone 8"
+      ]
+    },
+    {
+      "name": "Lenovo",
+      "devices": [
+        "Legion Y70",
+        "Tab M11"
+      ]
+    },
+    {
+      "name": "Huawei",
+      "devices": [
+        "Pura 70 Ultra",
+        "Mate 60 Pro"
+      ]
+    },
+    {
+      "name": "Honor",
+      "devices": [
+        "Magic 6 Pro",
+        "90 Lite"
+      ]
+    },
+    {
+      "name": "Nokia",
+      "devices": [
+        "G22",
+        "C32"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "whatsapp": "081234567890",
+      "brand": "Samsung",
+      "device": "A15",
+      "created_at": "2026-06-03T10:15:30.000Z",
+      "code_used": "Gratis"
+    },
+    {
+      "id": "2",
+      "whatsapp": "089876543210",
+      "brand": "Xiaomi",
+      "device": "Redmi Note 13",
+      "created_at": "2026-06-04T02:30:15.000Z",
+      "code_used": "VIPFF2026"
+    },
+    {
+      "id": "3",
+      "whatsapp": "085731998822",
+      "brand": "Vivo",
+      "device": "Y28",
+      "created_at": "2026-06-04T05:12:00.000Z",
+      "code_used": "FF-2026-ADMIN"
+    },
+    {
+      "id": "4",
+      "whatsapp": "081122334455",
+      "brand": "Oppo",
+      "device": "A58",
+      "created_at": "2026-06-04T08:45:11.000Z",
+      "code_used": "Gratis"
+    },
+    {
+      "id": "5_1780570064766",
+      "whatsapp": "83175086972",
+      "brand": "Xiaomi",
+      "device": "Redmi 12",
+      "created_at": "2026-06-04T10:47:44.766Z",
+      "code_used": "Gratis"
+    },
+    {
+      "id": "6_1780570336614",
+      "whatsapp": "83175086972",
+      "brand": "Oppo",
+      "device": "Reno 12",
+      "created_at": "2026-06-04T10:52:16.614Z",
+      "code_used": "VIPFF2026"
+    },
+    {
+      "id": "7_1780570486492",
+      "whatsapp": "83175086972",
+      "brand": "Oppo",
+      "device": "Reno 5f",
+      "created_at": "2026-06-04T10:54:46.492Z",
+      "code_used": "VIPFF2026"
+    }
+  ],
+  "sensitivities": [
+    {
+      "id": "1",
+      "brand": "Samsung",
+      "device": "A15",
+      "general": 180,
+      "reddot": 145,
+      "scope2x": 135,
+      "scope4x": 118,
+      "awm": 90,
+      "freelook": 75
+    },
+    {
+      "id": "2",
+      "brand": "Xiaomi",
+      "device": "Redmi Note 13",
+      "general": 185,
+      "reddot": 150,
+      "scope2x": 140,
+      "scope4x": 120,
+      "awm": 95,
+      "freelook": 80
+    },
+    {
+      "id": "3",
+      "brand": "Vivo",
+      "device": "Y28",
+      "general": 190,
+      "reddot": 155,
+      "scope2x": 145,
+      "scope4x": 122,
+      "awm": 85,
+      "freelook": 70
+    }
+  ],
+  "codes": [
+    {
+      "id": "1",
+      "code": "FF-2026-ADMIN",
+      "status": "aktif",
+      "limit_use": 100,
+      "used": 15,
+      "created_at": "2026-06-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "code": "VIPFF2026",
+      "status": "aktif",
+      "limit_use": 50,
+      "used": 10,
+      "created_at": "2026-05-15T00:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "code": "SENSIFREE",
+      "status": "aktif",
+      "limit_use": 200,
+      "used": 122,
+      "created_at": "2026-05-20T00:00:00.000Z"
+    }
+  ],
+  "admins": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "APINMODESENSIX",
+      "role": "superadmin"
+    }
+  ],
+  "telegram": {
+    "botToken": "",
+    "chatId": "",
+    "enabled": false
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Create Sensitivitas Free Fire",
+  "description": "Website pembuat sensitivitas Free Fire khusus berdasarkan tipe HP Indonesia dengan dashboard admin, kode unlock, dan notifikasi Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
